@@ -1,5 +1,13 @@
 #content {
-    width: 50%
+
+    border-left: 1px solid #C0C0C0;
+    width: 800px;
+    margin-left: 170px;
+    padding-left: 5px
+
+
 }
 
-
+body {
+    margin: 0
+}
